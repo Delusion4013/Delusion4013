@@ -7,7 +7,7 @@ I am now working as an 💬NLP researcher in a tech company located in 📍Hangz
 
 I am interested in exploring areas including machine learning, artificial intelligence, 📊data science, 💰financial analysis and general methodologies. Here you could find my 📓notes and 🧐thinking on these areas.
 
-
+Welcome to visit my [hexo blog](https://delusion4013.github.io/) and [personal website](https://www.huck.ml).
 
 Besides, I am *INTJ* type from the [16 personalities test](https://www.16personalities.com/free-personality-test), which I found most descriptions fitted myself pretty well.
 
