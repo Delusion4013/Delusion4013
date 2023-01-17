@@ -11,6 +11,6 @@ Welcome to visit my [hexo blog](https://delusion4013.github.io/) and [personal w
 
 
 
-![Chenkai HU's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delusion4013&layout=compact&langs_count=10)<br>
+![Chenkai HU's Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=delusion4013&layout=compact&langs_count=10)<br>
 
-[![Chenkai's github stats](https://github-readme-stats.vercel.app/api?username=delusion4013)](https://github.com/delusion4013/github-readme-stats)
+[![Chenkai's github stats](https://github-readme-stats.vercel.app/api?username=delusion4013)](https://github.com/delusion4013/github-readme-stats-sigma-five)
