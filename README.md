@@ -1,9 +1,6 @@
 ### Hi👋
 
-
-I just completed my Bachelor degree this year, majoring in 💻Computer Science with a specialization on 🤖Artificial Intelligence. 
-
-I am now working as an 💬NLP researcher in a tech company located in 📍Hangzhou. 
+I am now a graduate student major in Data Science located in 📍New York. 
 
 I am interested in exploring areas including machine learning, artificial intelligence and data science.
 
