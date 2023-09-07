@@ -1,6 +1,6 @@
 ### Hi👋
 
-I am now a graduate student major in Data Science located in 📍New York. 
+I am now a graduate student majored in Data Science in 📍New York. 
 
 I am interested in exploring areas including machine learning, artificial intelligence and data science.
 
