@@ -4,7 +4,7 @@ I am now a graduate student majored in Data Science in 📍New York.
 
 I am interested in exploring areas including machine learning, artificial intelligence and data science.
 
-Welcome to visit my [hexo blog](https://delusion4013.github.io/) and [personal website](https://www.huck.ml).
+Welcome to visit my [hexo blog](https://delusion4013.github.io/).
 
 
 
